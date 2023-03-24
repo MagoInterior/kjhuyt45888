@@ -1,3 +1,8 @@
+
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/kjhuyt45888](https://repl.it/github/MagoInterior/kjhuyt45888) 
+
 APÓS OS COMANDOS BÁSICOS DO TERMUX SÓ ENTRAR NO TERMUX E DA ESSE COMANDO PARA INSTALAR A PASTA NO ARMAZENAMENTO INTERNO :
 
 1_ COMANDO :
